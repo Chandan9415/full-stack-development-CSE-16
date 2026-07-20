@@ -1,0 +1,12 @@
+.box {
+    background-color: lightblue;
+    color: darkblue;
+    width: 250px;
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
